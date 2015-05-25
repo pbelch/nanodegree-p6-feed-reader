@@ -48,7 +48,6 @@ $(function() {
 
     describe('Initial Entries', function() {
         // Ensures when the loadFeed function is called and completes its work, there is at least a single .entry element within the .feed container
-
         beforeEach(function(done) {
             loadFeed(0, function() {
                 done();
