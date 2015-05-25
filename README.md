@@ -7,4 +7,4 @@ Introduction to Jasmine - http://evanhahn.com/how-do-i-jasmine/<br/>
 Example rule implementaions - http://stackoverflow.com/<br/>
 
 #Installation
-The project includes the source application provided by Udacity (./index.html), CSS (./css/style.css) and JavaScript (./js/app.js)) and the jasmine testing framework (./jasmine/). The testing configruation file (./jasmine/spec/feedreader.js) contains all of the descriptions cna test cases for the appliaction, defined by myself.
+The project includes the source application provided by Udacity ((./index.html), CSS (./css/style.css) and JavaScript (./js/app.js)) and the jasmine testing framework (./jasmine/). The testing configuration file (./jasmine/spec/feedreader.js) contains all of the descriptions cna test cases for the appliaction, defined by myself. To run simply launch the index.html file contained within the root, which will call the feedreader.js testing file.
